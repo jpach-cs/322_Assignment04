@@ -51,11 +51,13 @@ some text and some `code`. and so on
 ```python
 def hello():
  print("Hello Markdown!")
+```
 
 example:
 ```c
 {
-    int i = 0, arr[] = { 49, 50, 0 };
-    while( putchar(arr[i++]) )
-    ;
+    int i = 0, arr[] = { 49, 50, 0 };
+    while( putchar(arr[i++]) )
+        ;
 }
+```
